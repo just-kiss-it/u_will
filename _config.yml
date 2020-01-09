@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-# url:                   https://<username>.github.io
+# url:                   https://just-kiss-it/u_will.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,26 +12,25 @@
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-# baseurl:               ''
+baseurl:               '/u_will'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack Starter Kit
+title:                 Just-Kiss-It/U_Will
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
-  Open `_config.yml` to edit this text.
-
+  **`'Just-Kiss-It'`/U_Will**
+  This is a place for giraffing around in collaboration with others
+  in orchestrations that could be considered as ***'WORTH IT'...***
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  You *Too* Can Let Loose Your
+  Inner *`'Just-Kiss-It'` Spirit!
 
 # A list of keywords for your blog
 keywords:              []
