@@ -19,18 +19,19 @@ baseurl:               '/u_will'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Just-Kiss-It/U_Will
+title:                 Just-Kiss-It
+                          U_Will
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  **`'Just-Kiss-It'`/U_Will**
+  Just-Kiss-It U_Will
   This is a place for giraffing around in collaboration with others
   in orchestrations that could be considered as ***'WORTH IT'...***
 # A shorter description for the sidebar.
 tagline:               >
-  You *Too* Can Let Loose Your
-  Inner *`'Just-Kiss-It'` Spirit!
+  You *Too* May Implement ***Your***
+  Inner *`'Just-Kiss-It'`* Spirit !
 
 # A list of keywords for your blog
 keywords:              []
