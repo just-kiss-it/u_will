@@ -2,15 +2,17 @@
 layout: post
 title: "`Just-Kiss-It`.github.io/`U_Will`"
 date: "2020-01-09"
-author: "***`'Just-Kiss-It'`***"
+author: JKI
 image: /assets/img/blog/2020-01-09/2020-01-09-183851.png
 ---
 
 ### *((('They')))* cannot stand in *your* way...
-#### for *You* are the Master of The Temple.
-##### [Just-Kiss-It.github.io/U_Will](https://just-kiss-it.github.io/u_will) seems like as good a place as any to start something, so here we go!
+#### for **U** are the Master of The Temple.
+##### [Just-Kiss-It.github.io/U_Will](https://just-kiss-it.github.io/u_will) seems like as good a place as *any* to start something, so here we go!
+###### Description: "JKI giraffes around w/ `Jekyll`, `gh-pages`" and `HydeJack` Template"
 
 ### GIRAFFISMS :
+
 > Hollywood Celebrities are using their public platforms like *'casting couches'* to conformity.
 
 ---
@@ -50,7 +52,7 @@ and if you thought there *was* such a thing as ***'REAL'***...
 
 [Dave Chappelle's Acceptance Speech for the 2019 Mark Twain Prize](https://www.youtube.com/watch?v=FwyeYmXjD1A) was ***SO 'WORTH IT'!*** I love that man.
 
-Jon Stewart does too... as this video... [Jon Stewart on Dave Chappelle | 2019 Mark Twain Prize](https://www.youtube.com/watch?v=FAJG0bzvx-Q) demonstrates. Pretty darn funny.
+Jon Stewart does too... as this video... [Jon Stewart on Dave Chappelle re: 2019 Mark Twain Prize](https://www.youtube.com/watch?v=FAJG0bzvx-Q) demonstrates. Pretty darn funny.
 
 -----
 
@@ -70,7 +72,7 @@ Made this command in the directory I cloned into...
 
 But oops...
 
-![2020-01-09-175729.png](/assets/img/blog/2020-01-09/2020-01-09-175729.png)
+![2020-01-09-175729.png](https://i.imgur.com/rPBuPBq.png)
 
 So I did < `bundle update --bundler` >. Wew lad!
 
@@ -182,7 +184,7 @@ Use `bundle info [gemname]` to see where a bundled gem is installed.
 jki@jki-pc:~/Just-Kiss-It/u_will$
 ```
 
-![2020-01-09-183851.png](/assets/img/blog/2020-01-09/2020-01-09-183851.png)
+![2020-01-09-183851.png](https://i.imgur.com/lfG1NOV.png)
 
 Now `bundle exec jekyll serve`...
 
@@ -190,10 +192,6 @@ Hmmm...
 
 Well, that didn't work...
 
-```
-
-
-```
 Guess I will run
 
 < `bundle lock --add-platform x86-mingw32 x86-mswin32 x64-mingw32 java` >
@@ -244,7 +242,7 @@ line...
 
 Then did another `bundle exec jekyll serve --livereload`...
 
-![2020-01-09-195827.png](images/2020-01-09/2020-01-09-195827.png)
+![2020-01-09-195827.png](https://i.imgur.com/wpTUBPM.png)
 
 So, you can see how the `bundle install` command went for me.
 
@@ -425,11 +423,11 @@ jki@jki-pc:~/Just-Kiss-It/u_will$
 ```
 Yeah, I ran the `bundle install` and `bundle update` commands one more time just to make sure it loved me *(with all <u>those</u> gems, it damn well better!)*, then another `bundle exec jekyll serve --livereload`...
 
-![2020-01-09-203434.png](/assets/img/blog/2020-01-09/2020-01-09-203434.png)
+![2020-01-09-203434.png](https://i.imgur.com/sv3Utc4.png)
 
 then started looking for things in the theme to tweak...
 
-![2020-01-09-210755.png](/assets/img/blog/2020-01-09/2020-01-09-210755.png)
+![2020-01-09-210755.png](https://i.imgur.com/qCQYNxs.png)
 
 Go through some of the documentation provided at [https://hydejack.com/docs/config/#github-pages](https://hydejack.com/docs/config/#github-pages) and start making this theme yours.
 > assumes he will not eventually end up having to change it anyway! ***lol***
@@ -459,7 +457,11 @@ Evidently cloud storage is cheap nowadays. **But you *know* how I like me 'dem i
 
 < `git commit -m "message here"` >
 
-< `git origin gh-pages` >
+< `git push` >
+
+< `git log` >
+
+< `git checkout` >
 
 < `bundle exec jekyll serve --livereload` >
 

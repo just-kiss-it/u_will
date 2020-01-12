@@ -3,25 +3,25 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              "Just-Kiss-It"
+  email:             just-kiss-it@nunya.biz
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    This is actually me learning to dislike the HydeJack Template.
-    Who *am* I, youi may ask?
-    Keep asking... You may or may not get an answer. I've been asking more than anybody and I still don't know.
+    This is ***`'Just-Kiss-It'`***, learning to dislike the `HydeJack` Template.
+    Who ***am*** I, *youi* may ask?
+    Keep asking... *'Youi'* may or may not get an answer.
 
-    Open `_data/authors.yml` to edit this text.
+    ***I've*** been asking more than ***anybody*** and I ***still*** don't know.
 
   # This photo will be used in the about section.
   picture:
-    path:            https://placehold.it/128x128
+    path:            /assets/img/blog/JKI-icon_128x111.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            /assets/img/blog/JKI-icon_128x111.png
+      2x:            /assets/img/blog/JKI-icon_256x223.png
 
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
