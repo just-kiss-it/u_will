@@ -10,6 +10,7 @@ slug: blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category. There'll be more. Barely getting started.
-  I'll be deducing how to add more categories from `_featured_tags/example.md`
+  You be in da Blog Category Right Now! There'll be more categories, etc. soon.
+  Barely getting started, so if you're having trouble finding your way around,
+  So am I! But I'm hoping this last edit worked and I now have a blog category!
 ---

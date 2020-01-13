@@ -1,4 +1,8 @@
 # This file contains meta data for various social media sites
+8kun:
+  name: 8kun
+  icon: icon-8kun
+  prepend: 'https://8kun.top/freedomzine/'
 email:
   name: Email
   icon: icon-mail

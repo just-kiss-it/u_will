@@ -51,7 +51,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /example/
+    url:               /blog/
   - title:             Documentation
     url:               https://hydejack.com/docs/
   - title:             About
@@ -66,7 +66,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved.
+copyright:             © 2020. All wrongs reversed.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
