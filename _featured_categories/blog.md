@@ -12,5 +12,5 @@ slug: blog
 description: >
   You be in da Blog Category Right Now! There'll be more categories, etc. soon.
   Barely getting started, so if you're having trouble finding your way around,
-  So am I! But I'm hoping this last edit worked and I now have a blog category!
+  So am I!
 ---
