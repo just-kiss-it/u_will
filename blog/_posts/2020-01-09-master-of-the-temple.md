@@ -3,7 +3,7 @@ layout: post
 title: "`Just-Kiss-It`.github.io/`U_Will`"
 date: "2020-01-09"
 author: JKI
-image: /assets/img/blog/2020-01-09/2020-01-09-183851.png
+image: https://i.imgur.com/lfG1NOV.png
 ---
 
 ### *((('They')))* cannot stand in *your* way...

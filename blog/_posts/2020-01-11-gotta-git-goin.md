@@ -3,7 +3,7 @@ layout: post
 title: "Leaning toward `HUGO` now..."
 date: "2020-01-11"
 author: "***`'Just-Kiss-It'`***"
-image: /assets/img/blog/2020-01-11/2020-01-11-072424.png
+image: https://i.imgur.com/pNKCboV.png
 ---
 
 ### Future Plans

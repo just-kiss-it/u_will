@@ -3,7 +3,7 @@ layout: post
 title: "The Nose KNOWS!"
 date: "2020-01-12"
 author: "***`'Just-Kiss-It'`***"
-image: /assets/img/blog/2020-01-12/Eeyore-Wakes-JKI.jpg
+image: https://i.imgur.com/znAyJG1.jpg
 ---
 
 Woke wonderfully with lounge-cat, Eeyore....

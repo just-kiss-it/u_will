@@ -3,7 +3,7 @@ layout: post
 title: "Not Happy with `LBRY`"
 date: "2020-01-14"
 author: "***`'Just-Kiss-It'`***"
-image: https://i.imgur.com/MCe6Tkc.png
+image: https://i.imgur.com/bO8ronD.jpg
 ---
 
 ### This day started with me writing, and it will probably end with me writing.
