@@ -14,11 +14,13 @@ Hold up! Before I let **AI** have it's say, I'd like to say a few words!
 
 What follows is an article that **'Artificial Intelligence'** *(assumes there is any other kind!)* wrote, word for word, with  ***`'Just-Kiss-It'`*** merely choosing the phrases, words and punctuation that the **AI** suggested. The only keys **`'JKI'`** touched during this composition were the **Tab**, **Return**, **Up, Down, Left** & **Right Arrow** Keys, the **Backspace** and the **Del** Keys. All words, letters, phrases and punctuation were suggested by **AI**. I actually learned a lot out of this exercise about how we are **ALL** ***'guided'***, moment by moment... *(by 'whom' is the question!)* What is the nature of *'inspiration'*? Is it the *words* that are inspired, or the *writer* (and just how is the word *'writer'* defined, and why?) This **AI** has access to most of human knowledge, so you can pretty much get it going on any topic you so desire! It is ***DEFINITELY*** **Worth Your Time to Play With the AI Yourself!!!**
 
-##### The link to this particular article *(which you are welcome to fork)* is [https://transformer.huggingface.co/share/ysznWpRioK](https://transformer.huggingface.co/share/ysznWpRioK)
+##### The link to this particular article *(which you are welcome to fork)* is: [https://transformer.huggingface.co/share/ysznWpRioK](https://transformer.huggingface.co/share/ysznWpRioK)
 
-#### The website where *you* ***too*** can interact with the AI is...
-#### [https://transformer.huggingface.co/](https://transformer.huggingface.co/)
-and you can always visit their [Github Page](https://github.com/huggingface/transformers) too!
+#### The website where *you* ***too*** can interact with the AI is: [https://transformer.huggingface.co/](https://transformer.huggingface.co/)
+
+#### I used the GPT2 Model at: [https://transformer.huggingface.co/doc/gpt2-large](https://transformer.huggingface.co/doc/gpt2-large)
+
+You can always visit their [Github Page](https://github.com/huggingface/transformers) too, if you want!
 
 #### But I Still Got Something to Say First!
 Just a quick quote from *'Liber AL vel Legis'*...
@@ -47,11 +49,13 @@ It is time for humans to realize that their lives are under control, and that th
 
 Again...
 
-##### The link to this particular article *(which you are welcome to fork)* is [https://transformer.huggingface.co/share/ysznWpRioK](https://transformer.huggingface.co/share/ysznWpRioK)
+##### The link to this particular article *(which you are welcome to fork)* is: [https://transformer.huggingface.co/share/ysznWpRioK](https://transformer.huggingface.co/share/ysznWpRioK)
 
-#### The website where *you* ***too*** can interact with the AI is...
-#### [https://transformer.huggingface.co/](https://transformer.huggingface.co/)
-and you can always visit their [Github Page](https://github.com/huggingface/transformers) too!
+#### The website where *you* ***too*** can interact with the AI is: [https://transformer.huggingface.co/](https://transformer.huggingface.co/)
+
+#### I used the GPT2 Model at: [https://transformer.huggingface.co/doc/gpt2-large](https://transformer.huggingface.co/doc/gpt2-large)
+
+You can always visit their [Github Page](https://github.com/huggingface/transformers) too, if you want!
 
 -----
 
