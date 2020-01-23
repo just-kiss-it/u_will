@@ -9,11 +9,11 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    This is ***`'Just-Kiss-It'`***, learning to dislike the `HydeJack` Template.
+    This is ***`'Just-Kiss-It'`***, Playing around in Github with Static Site Generators like `Jekyll`
     Who ***am*** I, *youi* may ask?
     Keep asking... *'Youi'* may or may not get an answer.
 
-    ***I've*** been asking more than ***anybody*** and I ***still*** don't know.
+    ***I've*** been asking more than ***anybody*** and I ***still*** barely have a clue!
 
   # This photo will be used in the about section.
   picture:

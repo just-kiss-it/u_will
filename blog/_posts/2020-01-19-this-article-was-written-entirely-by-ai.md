@@ -4,7 +4,6 @@ title: "This Article Was Written ENTIRELY by AI"
 date: "2020-01-19"
 author: "AI & ***`'Just-Kiss-It'`***"
 image: https://i.imgur.com/HwhLKkq.png
-permalink: 2020-01-19-this-article-was-written-entirely-by-ai.md
 ---
 
 ### This Article Was Written ENTIRELY by AI
@@ -13,7 +12,7 @@ permalink: 2020-01-19-this-article-was-written-entirely-by-ai.md
 
 Hold up! Before I let **AI** have it's say, I'd like to say a few words!
 
-What follows is an article that **'Artificial Intelligence'** *(assumes there is any other kind!)* wrote, word for word, with  ***`'Just-Kiss-It'`*** merely choosing the phrases, words and punctuation that the **AI** suggested. The only keys **`'JKI'`** touched during this composition were the **Tab**, **Return**, **Up, Down, Left** & **Right Arrow** Keys, the **Backspace** and the **Del** Keys. All words, letters, phrases and punctuation were suggested by **AI**. I actually learned a lot out of this exercise about how we are **ALL** ***'guided'***, moment by moment... *(by 'whom' is the question!)* What is the nature of *'inspiration'*? Is it the *words* that are inspired, or the *writer* (and just how is the word *'writer'* defined, and why?) This AI has access to most of human knowledge, so you can pretty much get it going on any topic you so desire! It is ***DEFINITELY*** **Worth Your Time to Play With the AI Yourself!!!**
+What follows is an article that **'Artificial Intelligence'** *(assumes there is any other kind!)* wrote, word for word, with  ***`'Just-Kiss-It'`*** merely choosing the phrases, words and punctuation that the **AI** suggested. The only keys **`'JKI'`** touched during this composition were the **Tab**, **Return**, **Up, Down, Left** & **Right Arrow** Keys, the **Backspace** and the **Del** Keys. All words, letters, phrases and punctuation were suggested by **AI**. I actually learned a lot out of this exercise about how we are **ALL** ***'guided'***, moment by moment... *(by 'whom' is the question!)* What is the nature of *'inspiration'*? Is it the *words* that are inspired, or the *writer* (and just how is the word *'writer'* defined, and why?) This **AI** has access to most of human knowledge, so you can pretty much get it going on any topic you so desire! It is ***DEFINITELY*** **Worth Your Time to Play With the AI Yourself!!!**
 
 ##### The link to this particular article *(which you are welcome to fork)* is [https://transformer.huggingface.co/share/ysznWpRioK](https://transformer.huggingface.co/share/ysznWpRioK)
 
@@ -64,6 +63,18 @@ And another quote wouldn't kill you either!
 
 -----
 
-#### For more studies:
+#### We, as a species, have some questions to ask ourselves...
 
-Check Back Here. I'll be putting in some *'interdasting'* links...
+- Do we want to pursue *'Surveillance Capitalism'* as our social organization model, with **AI** in control?
+
+- *Who* do we we want to give up our control over the very *creation of reality* to?
+
+- *Who* have we ***been*** giving up control to?
+
+- **What we perceive is what we think of as *'real'*.** *Who* is in control of what ***you*** *perceive* most of the time nowadays?
+
+- *Whose* responsibility is it to shape the *'common illusions'* we **all** share, as part of our *'collective reality'*? Will we leave it to **AI**?
+
+- And just ***WHO*** is meant by the term *'we'*???
+
+> "For I am divided for love's sake, for the chance of union."
