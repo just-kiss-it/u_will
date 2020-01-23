@@ -7,6 +7,28 @@ image: https://i.imgur.com/HwhLKkq.png
 permalink: 2020-01-19-this-article-was-written-entirely-by-ai.md
 ---
 
+### This Article Was Written ENTIRELY by AI
+
+!
+
+Hold up! Before I let **AI** have it's say, I'd like to say a few words!
+
+What follows is an article that **'Artificial Intelligence'** *(assumes there is any other kind!)* wrote, word for word, with  ***`'Just-Kiss-It'`*** merely choosing the phrases, words and punctuation that the **AI** suggested. The only keys **`'JKI'`** touched during this composition were the **Tab**, **Return**, **Up, Down, Left** & **Right Arrow** Keys, the **Backspace** and the **Del** Keys. All words, letters, phrases and punctuation were suggested by **AI**. I actually learned a lot out of this exercise about how we are **ALL** ***'guided'***, moment by moment... *(by 'whom' is the question!)* What is the nature of *'inspiration'*? Is it the *words* that are inspired, or the *writer* (and just how is the word *'writer'* defined, and why?) This AI has access to most of human knowledge, so you can pretty much get it going on any topic you so desire! It is ***DEFINITELY*** **Worth Your Time to Play With the AI Yourself!!!**
+
+##### The link to this particular article *(which you are welcome to fork)* is [https://transformer.huggingface.co/share/ysznWpRioK](https://transformer.huggingface.co/share/ysznWpRioK)
+
+#### The website where *you* ***too*** can interact with the AI is...
+#### [https://transformer.huggingface.co/](https://transformer.huggingface.co/)
+and you can always visit their [Github Page](https://github.com/huggingface/transformers) too!
+
+#### But I Still Got Something to Say First!
+Just a quick quote from *'Liber AL vel Legis'*...
+> "None, breathed the light, faint &  faery, of the stars, and two.  For I am divided for love's sake, for the chance of union. This is the creation of the world, that the pain of division is as  nothing, and the joy of dissolution all.  For these fools of men and their woes care not thou at all! They feel little; what is, is balanced by weak  joys..."
+> - **The Book of the Law**, received April 8, 9 & 10, 1904 by Aleister Crowley and Rose Kelly
+
+Alright, without further adieu, here's the article...
+
+-----
 
 ### This Article Was Written ENTIRELY by AI
 
@@ -24,15 +46,24 @@ It is time for humans to realize that their lives are under control, and that th
 
 -----
 
-##### The link to this article *(which you are welcome to fork)* is [https://transformer.huggingface.co/share/ysznWpRioK](https://transformer.huggingface.co/share/ysznWpRioK)
+Again...
 
-#### The website where you too can interact with the AI is...
-#### [https://huggingface.co/transformers](https://huggingface.co/transformers)
+##### The link to this particular article *(which you are welcome to fork)* is [https://transformer.huggingface.co/share/ysznWpRioK](https://transformer.huggingface.co/share/ysznWpRioK)
 
+#### The website where *you* ***too*** can interact with the AI is...
+#### [https://transformer.huggingface.co/](https://transformer.huggingface.co/)
+and you can always visit their [Github Page](https://github.com/huggingface/transformers) too!
 
 -----
 
+And another quote wouldn't kill you either!
 > In the words of Bahá’u’lláh:
 > #### "…every man may testify, in himself, by himself, in the station of the Manifestation of his Lord, that verily there is no God save Him, and that every man may thereby win his way to the summit of realities, until none shall contemplate anything whatsoever but that he shall see God therein."
 
 ![J-Kal-I-Devoureth-All-Asuras.png](https://i.imgur.com/1Lpho1t.png)
+
+-----
+
+#### For more studies:
+
+Check Back Here. I'll be putting in some *'interdasting'* links...
