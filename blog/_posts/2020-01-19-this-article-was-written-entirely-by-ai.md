@@ -81,4 +81,4 @@ And another quote wouldn't kill you either!
 
 - And just ***WHO*** is meant by the term *'we'*???
 
-> "For I am divided for love's sake, for the chance of union."
+> {% include green.html %} "For I am divided for love's sake, for the chance of union."
