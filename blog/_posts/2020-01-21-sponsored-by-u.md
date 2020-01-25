@@ -6,6 +6,7 @@ author: "***`'Just-Kiss-It'`***"
 image: https://i.imgur.com/sGamOZt.png
 ---
 
+### This Has Been Sponsored by the Letter `'U'`:
 ### Frustrated?
 #### Fretting over *'problems'*?
 ### GET BACK TO WORK.
