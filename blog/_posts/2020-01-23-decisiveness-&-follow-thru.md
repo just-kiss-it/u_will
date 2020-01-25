@@ -8,11 +8,11 @@ image: https://i.imgur.com/ohINNSc.jpg
 
 ### Decisiveness & Follow-Thru
 
-Looks like I may leave `'Jekyll'` behind soon. All signs point in that direction. Learning `'HUGO'` and `'Jekyll'` at the same time is not helpful, really; and I have to make decisions on how to move forward. I'm big on signs and portents; so when I saw I had a **'gems'** folder, Gemfile and Gemfile.lock in my Home Directory this morning, and I do not know why??? Well, I consider it a sign.
+Looks like I may leave [`'Jekyll'`](https://jekyllrb.com/) behind soon. All signs point in that direction. Learning [`'HUGO'`](https://gohugo.io/) and [`'Jekyll'`](https://jekyllrb.com/) at the same time is not helpful, really; and I have to make decisions on how to move forward. I'm big on signs and portents; so when I saw I had a **'gems'** folder, Gemfile and Gemfile.lock in my Home Directory this morning, and I do not know why??? Well, I consider it a sign.
 
-> {% include green.html %} more likely a sign that I gave the command to do `bundle exec jekyll serve` in my Home Directory, than a sign I need to leave `'Jekyll'` behind I know -- but **I'm leaving `'Jekyll'` behind!**
+> {% include green.html %} more likely a sign that I gave the command to do `bundle exec jekyll serve` in my Home Directory, than a sign I need to leave [`'Jekyll'`](https://jekyllrb.com/) behind I know -- but **I'm leaving [`'Jekyll'`](https://jekyllrb.com/) behind!**
 
-Anyway, that leads me to *other* considerations. I pretty much don't want to use `'HUGO'` unless I can use the latest and the greatest, which at this time is Version 0.62.2. The best I can get on Debian Testing is 0.58.1, which is actually ok, better than the 0.55 I can get on Debian 10 Buster; but, long story short... I'm about ready to go with an **'Arch'** install. Grrr. Even **'Manjaro'** irritates me oftentimes, because it has eccentricities peculiar to itself that... well I may as well just build an **'Arch'** System from the ground up the way I want it! But that leads me back to needing a good backup and restore system, which I do not yet have (which reminds me I have to do my backups today!)...
+Anyway, that leads me to *other* considerations. I pretty much don't want to use [`'HUGO'`](https://gohugo.io/) unless I can use the latest and the greatest, which at this time is Version 0.62.2. The best I can get on Debian Testing is 0.58.1, which is actually ok, better than the 0.55.6 I can get on Debian 10 Buster; but, long story short... I'm about ready to go with an [**'Arch'**](https://www.archlinux.org/) install. Grrr. Even [**'Manjaro'**](https://manjaro.org/) irritates me oftentimes, because it has eccentricities peculiar to itself that... well I may as well just build an [**'Arch'**](https://www.archlinux.org/) System from the ground up the way I want it! But that leads me back to needing a good backup and restore system, which I do not yet have (which reminds me I have to do my backups today!)...
 
 But the main thing that is stressing me out is that I do not have any direction for where and how I want to expend my energies in the use of these new understandings. I need to write an **'About'** Page today, wherein I express ***who*** my persona is, and ***what*** he is all about. Only ***THEN*** can it be determined ***WTF*** `'JKI'` is doing!
 
@@ -45,11 +45,11 @@ Tried to do some editing and writing, but somewhat failing today. Kinda angry an
 
 ![2020-01-23-110613.png](https://i.imgur.com/AnRx5n1.png)
 
-Still wasting time with `'LBRY'` too!
+### Still wasting time with [`'LBRY'`](https://lbry.com/) too!
 
 ![2020-01-23-115526-redacted.png](https://i.imgur.com/Q71VhOc.png)
 
-In their defense, they DID finally figure out what my problem was and they sent 100 LBC my way for the trouble. Sean let me know he had just put up the AppImage on his Github minutes before, so I snagged it even before it was available on the `LBRY` website! Still, it did not work for me. I don't know if it's a continuing 'keytar' requirement issue, or what! I give up for right now though. I don't really feel like doing [**Discord**](https://discordapp.com/) right now, but that may change in a few days... So many groups of people use [**Discord**](https://discordapp.com/). I may as well get back into it and see if it has improved over the last few years since I last checked it out...
+In their defense, they DID finally figure out what my problem was and they sent 100 LBC my way for the trouble. Sean let me know he had just put up the AppImage on his Github minutes before, so I snagged it even before it was available on the [`'LBRY'`](https://lbry.com/) website! Still, it did not work for me. I don't know if it's a continuing 'keytar' requirement issue, or what! I give up for right now though. I don't really feel like doing [**Discord**](https://discordapp.com/) right now, but that may change in a few days... So many groups of people use [**Discord**](https://discordapp.com/). I may as well get back into it and see if it has improved over the last few years since I last checked it out...
 
 
 -----
