@@ -77,7 +77,7 @@ While we're on the subject of YouTube Videos, and I still have **AI** on my mind
 
 [How Far is Too Far? ~ The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) [34:39]
 
-There's more in the series, but that one isn't half-bad; which reminds me, I've gotta add more **AI** Links to the ['This Article Was Written Entirely by AI']() article.
+There's more in the series, but that one isn't half-bad; which reminds me, I've gotta add more **AI** Links to the ["This Article Was Written ENTIRELY by AI"](2020-01-19-this-article-was-written-entirely-by-ai.md) article.
 
 I also need to consolidate the last few days worth of Notes into one Blog entry. **Don't make a production out of it!** Just pick the important stuff and **git on it!**
 
