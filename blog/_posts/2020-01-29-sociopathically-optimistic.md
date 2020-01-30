@@ -6,7 +6,7 @@ author: "***`'Just-Kiss-It'`***"
 image: https://i.imgur.com/a5idvOi.gif
 ---
 
-### *'Sociopathically Optimistic'*
+### Sociopathically Optimistic
 
 ### The *Beginning* & *End* are Always at the Same Juncture -- *Here* & *Now*...
 
