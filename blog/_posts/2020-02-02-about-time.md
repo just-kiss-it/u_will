@@ -3,7 +3,7 @@ layout: post
 title: "ABOUT Time"
 date: "2020-02-02"
 author: "***`'Just-Kiss-It'`***"
-image: https://i.imgur.com/iB5WFem.gif
+image: https://i.imgur.com/iyINePQ.gif
 ---
 
 ### *ABOUT* Time
@@ -18,7 +18,7 @@ Sounds like more of a daunting task of *self-discovery* than a mere *depiction* 
 
 > {% include green.html %} That's *cute*. The giraffe still thinks he can keep anything *short*!
 
-How hard could it *be* to write an ***'ABOUT:'*** Page?
+How hard could it *be* to write an [***'ABOUT'***](/u_will/about/) Page?
 
 > {% include green.html %} Says the giraffe who hasn't been able to pull it off in over a year between 3 different websites!
 
@@ -76,7 +76,7 @@ Let's see if we can break this giraffe out of his conversation with himself long
 
 Yeah, you've mentioned that a *few* times. **What *do* You Want?**
 
-{% include blue.html %} I guess I'm figuring that, while practicing new skills and developing habits and self-discipline. I guess this is just a record of the process whereby ***`'Just-Kiss-It'`*** finds out just *who* ***`'Just-Kiss-It'` is***, and just *what* ***`'Just-Kiss-It'`*** is all [***ABOUT***]()!
+{% include blue.html %} I guess I'm figuring that, while practicing new skills and developing habits and self-discipline. I guess this is just a record of the process whereby ***`'Just-Kiss-It'`*** finds out just *who* ***`'Just-Kiss-It'` is***, and just *what* ***`'Just-Kiss-It'`*** is all [***ABOUT***](/u_will/about/)!
 
 {% include green.html %} Meanwhile, it is also a place for practicing new skills and developing new habits of self-discipline. in the *gnosis*...
 
@@ -91,9 +91,9 @@ But,
 
 -----
 
-#### Well, I obviously have more writing to do on the [*'ABOUT'*]() *Page* later...
+#### Well, I obviously have more writing to do on the [*'ABOUT'*](/u_will/about/) *Page* later...
 
-At least I'll be able to go insert this as an [***'ABOUT'***]() *Page* ***everywhere*** it is appropriate soon -- including the old [8kun.top/freedomzine/](https://8kun.top/freedomzine/catalog.html) site, the [freedomzine.hashbase.io](https://freedomzine.hashbase.io/) site, and the [just-kiss-it.hashbase.io](https://just-kiss-it.hashbase.io/) site!
+At least I'll be able to go insert this as an [***'ABOUT'***](/u_will/about/) *Page* ***everywhere*** it is appropriate soon -- including the old [8kun.top/freedomzine/](https://8kun.top/freedomzine/catalog.html) site, the [freedomzine.hashbase.io](https://freedomzine.hashbase.io/) site, and the [just-kiss-it.hashbase.io](https://just-kiss-it.hashbase.io/) site!
 
 The info is still applicable, and will help me wrap up those enterprises with a neat bow...
 
@@ -113,7 +113,7 @@ The info is still applicable, and will help me wrap up those enterprises with a 
 
 > {% include blue.html %} *What,* exactly?
 
-Well, seems like one oughtta be able to wrap up an ***'ABOUT'*** *Page* with *some* kind of quickness!
+Well, seems like one oughtta be able to wrap up an [***'ABOUT'***](/u_will/about/) *Page* with *some* kind of quickness!
 
 ### Oh, this is *'some kind of quickness'* alright!
 
@@ -123,9 +123,9 @@ Well, seems like one oughtta be able to wrap up an ***'ABOUT'*** *Page* with *so
 
 ### Shit I did:
 
-- Tried to write the [***ABOUT***]() *Page*, but got sidetracked by
+- Tried to write the [***ABOUT***](/u_will/about/) *Page*, but got sidetracked by
 
-- all those `.html`s
+- all those `.html` `'_partials'`
 > {% include blue.html %} Whatever do you mean? *(look below...)*
 
 - Messed with **Tutanota 'AppImage'** again.
@@ -152,6 +152,7 @@ But I do not want those *'feelings'* to color how I react. In fact, I no longer 
 -----
 
 {% include red.html %} Maybe if *'we'* busy him creating some `.html` **`'_partials'`** he'll forget what this page was supposed to be [*ABOUT*]()...
+> {% include blue.html %} Got these miscellaneous symbols from [w3schools.com/charsets/](https://www.w3schools.com/charsets/ref_utf_symbols.asp) he may find *'interdasting'*...
 
 {% include cat.html %}
 
@@ -260,9 +261,13 @@ But I do not want those *'feelings'* to color how I react. In fact, I no longer 
 
 {% include ok.html %}
 
-{% include red.html %} Yeah, I've been escaping writing that [*ABOUT*]() Page for quite some time now! In *Many* Ways!
+{% include red.html %} Yeah, I've been escaping writing that [*ABOUT*](/u_will/about/) Page for quite some time now! In *Many* Ways!
 
 {% include green.html %} But I'll be back in awhile... I have ***WAY*** too much to do to sit around here talking about how much I have to do, whilst not doing it!
+
+Just in case you were wondering how the `'.html Entities'` on this page render in different browsers on different devices, I checked it out for you!
+
+![2020-02-02/diff-browsers-2.png](https://i.imgur.com/LF6FFPX.png)
 
 ### [*HAPPY GROUNDHOG DAY!*](https://www.youtube.com/watch?v=lKQhYPcNhx0)
 
