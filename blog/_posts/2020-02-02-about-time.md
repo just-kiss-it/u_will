@@ -251,13 +251,13 @@ But I do not want those *'feelings'* to color how I react. In fact, I no longer 
 
 {% include whale.html %}
 
-### That reminds me I've gotta get goin' with `'Hugo'` on `Docker`, not to mention the `Pi-hole` `Docker` image and `pivpn`...
+### That reminds me I've gotta get goin' with `'Hugo'` on `'Docker'`, not to mention the **'Pi-hole'** `'Docker'` image and `'pivpn'`...
 
 {% include squirrel.html %}
 
 ### *SQUIRREL!*
 
-> Oh, Squirrel! I get it. OK...
+> Oh, Squirrel! I get it. *'OK'*...
 
 {% include ok.html %}
 
