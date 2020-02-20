@@ -28,7 +28,7 @@ Speaking of `'dpkg'`... Here's a [`'dpkg'` Cheat Sheet](https://www.cyberciti.bi
 
 > {% include green.html %} **>inb4** "***He still uses Google 'Hangouts'!***"
 
-Yeah, I *do* have some *'peeps'* who do, and I *do* find it convenient to use [**'YakYak'**](https://github.com/yakyak/yakyak) to interact with da *'ebil' Google 'Hangouts'* from Debian-based systems. Kind of like how I'm still hanging on to an old Gmail address I've been unable to fully extricate myself from yet; even though I have only interacted with it through *Thunderbird* for many years. ***Time to Let It Go.***
+Yeah, I *do* have some *'peeps'* who do, and I *do* find it convenient to use [**'YakYak'**](https://github.com/yakyak/yakyak) to interact with da *'ebil' Google 'Hangouts'* from Debian-based systems. Kind of like how I'm still hanging on to an old Gmail address I've been unable to fully extricate myself from yet; even though I have only interacted with it through [***'Thunderbird'***](https://www.thunderbird.net/en-US/) for many years. ***Time to Let It Go.***
 
 - [x] {% include red.html %} Make getting rid of Google a priority.
 
