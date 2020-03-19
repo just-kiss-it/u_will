@@ -50,6 +50,8 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             MX19.1-KDE-by-JKI
+    url:               /mx19-1-kde-by-jki/
   - title:             Blog
     url:               /blog/
   - title:             Articles
