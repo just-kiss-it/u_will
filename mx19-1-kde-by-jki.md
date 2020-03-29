@@ -6,6 +6,8 @@ layout: about
 # The title of the page.
 title: MX Linux 19.1 with KDE Plasma Desktop
 
+date: "2020-03-14"
+
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
@@ -36,7 +38,7 @@ I tried to lead any potential questioners to the NSFW site [8kun.top/freedomzine
 
 ### I was just trying to keep the *riffraff* off the Forum!
 
-Anyway, I didn't think about the fact that they might not want a link to a NSFW site on their forum, so I'll go in and edit that as soon as possible. But yeah, if you can handle possibly witnessing a sex toy advertisement at the top or bottom of the page, that thread on **8kun** is a good place for questions and comments:
+Anyway, I didn't think about the fact that they might not want a link to a NSFW site on their forum, so I went in and edited that. But yeah, if you can handle possibly seeing a sex toy advertisement at the top or bottom of the page, [that thread on **>>>/freedomzine/**](https://8kun.top/freedomzine/res/1418.html) is a good place for questions and comments:
 
 #### [https://8kun.top/freedomzine/res/1418.html](https://8kun.top/freedomzine/res/1418.html)
 
@@ -46,7 +48,7 @@ Anyway, I didn't think about the fact that they might not want a link to a NSFW 
 
 *(you can go [there](https://sourceforge.net/projects/mx-19-1-kde-by-jki/files/) to read the rest!)*
 
-All I did was downloaded the **Feb 15, 2020 MX-19.1_x64 ISO**, updated, upgraded, installed the **KDE Plasma Desktop**, booted into that and carefully purged the XFCE cruft. Anyone could do it, but satisfactory results are difficult to achieve. I've had varying levels of success with marrying MX Linux & Plasma over several years, and this is the best Respin I've tried, and I have tried many.
+All I did was downloaded the **Feb 15, 2020 MX-19.1_x64 ISO**, updated, upgraded, installed the **KDE Plasma Desktop**, booted into that and carefully purged the XFCE cruft using `Aptitude` and `Synaptic`. Anyone could do it, but satisfactory results are difficult to achieve. I've had varying levels of success with marrying MX Linux & Plasma over several years, and this is the best Respin I've tried, and I have tried many.
 
 I've used it live on a USB, installed it on several older machines & VirtualBox.
 
@@ -70,6 +72,60 @@ Remaster Your Own General Respin or I'll Post More `.ISO`s if there's a demand. 
 I hope some folks find this useful. You can all thank Adrian for starting me down this path several years ago.
 
 Suffice it to say, **THIS RESPIN WORKS!**  (and yes, the `live-usb-maker` works fine too, that I mentioned I was worried about from the MX-18 days.) I have actually found nothing that doesn't work in this respin, and I have tested it extensively, and installed it on several machines; really old ones too.
+
+-----
+
+## WHAT I *DUN* SINCE!
+#### 2020-03-29
+
+I've had the chance to use this on a USB and install this on a couple machines just in the last couple weeks. Here are some of the things I did and my thoughts:
+
+- **Upgrades...**
+> There have been quite a few from MX in the last couple weeks, but no kernel upgrades or anything!
+
+- **I installed this on an SSD -- SUPER FAST Install!**
+
+    `sudo minstall` is your friend. Sorry I forgot to make a Desktop Install Icon!
+> The **ntp server** was messed up, so it wouldn't immediately update. . I made the following command and fixed it:
+
+    `sudo ntpdate -u us.pool.ntp.org`
+
+ > but you can obviously use any ntp server you desire if you run into the same problem.
+
+- **Ran a trim command for the `root` partition:**
+
+    `sudo fstrim -v /`
+
+    **and again for `/home`:**
+
+    `sudo fstrim -v /home`
+
+- **Checked for `noatime` in `fstab`.**
+> Yup. The MX folks know what they're doing, and this distro supports **trim**. Just make sure your SSD does. It looks like it's set up to auto-trim once a week. If you want it set up for daily it's not too hard to figure out.
+
+- **Turned on the WiFi --*FIRST REAL ISSUE!***
+>The `kde-wallet` asked me for a password. I've never used it before, and have, in the past, just disabled the KDE Wallet subsystem in the KDE Wallet System Settings Module; but getting the Network Manager to auto-login without storing the Wi-Fi Password **unencrypted** for all users (which really isn't a preferred option) seemed more difficult than I had remembered. There are ways to fix this problem, if you run into it. I found some good info at [https://wiki.archlinux.org/index.php/KDE_Wallet](https://wiki.archlinux.org/index.php/KDE_Wallet); and I chose to deal with the *problem* by taking their advice, deleting the default wallet, creating a new blowfish one with no password (but set it to prompt me if any applications try to access it), and then it had no trouble ever-after auto-logging-in to the Wi-Fi Password I had entered.
+
+- **Turned on the Conky and edited it.**
+
+![2020-03-29/GREEN-St-Pat-Conky.png](https://i.imgur.com/wt7frk0.png)
+
+- Installed a bunch of applications, like `MX Codecs`, `Krita`, `Inkscape`, `Kdenlive`, `Flameshot`, `Atom`, `Syncthing` and `Syncthing-GTK`, because that is how I do!
+
+
+- Dolphin had a couple Folders on the left that were tied to the Username `'demo'`.
+>Changed the name in the path and all was well.
+
+- **Changed Download location to `Downloads` in both `Vivaldi` and `Firefox`.**
+
+- **Changed `Spectacle` & `Flameshot` 'Save' locations to `/home/username/Pictures/Screenshots`.**
+
+- **Changed `simple-screen-recorder` 'Save' location to `/home/username/Videos/simple-screen-recorder`**
+
+- **Changed Mouse Acceleration from 2.0 to 3.0**
+> On an old Dell Latitude E6400, the mousepad seemed slow to me, but differences of opinion have been expressed since!
+
+{% include blue.html %} **Other than that, I can't think of much more pertinent information to relay here. Sorry I tend to blab off so much. Hope you were able to glean some useful information in amongst all my ramblings...**
 
 #### *(More Detailed Notes at the [README](https://sourceforge.net/projects/mx-19-1-kde-by-jki/files/))*
 
