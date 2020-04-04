@@ -160,6 +160,10 @@ Actually wrote about it a bit over here: [CONTEMPT is the TOPIC. `systemd` is an
 
 #### So, where are we now? Is there anything we can learn from **non-duality** maybe? [Trika Rahasya](https://richardalanmiller.com/trika-rahasya-the-secrets-of-kashmir-shaivism/)?
 
+#### Or maybe the Western Mystery Traditions?
+
+> {% include blue.html %} "***None, breathed the light, faint & faery, of the stars, and two. For I am divided for love's sake, for the chance of union.***" ~ [Verses 28 & 29 of Chapter 1 from Liber AL vel Legis sub figura CCXX as delivered by XCIII = 418 to DCLXVI]
+
 I'm big on polarity. But the poles on *this* magnet cancel each other out! One might say there really is no unity, or oneness at all! But of course **'one'** ***would*** say that! One might also say that we need **Balanced Polarity** -- **The TAO**. Male & Female energies, one might call them. One might say that we, as humans, should not be at war with each other -- but *who* defines what the struggle is? What looks like violence to some looks like lovemaking to others. **Is *everything* a matter of perspective?** Are we nothing but reflections of the whole? Are we just a viewpoint?
 
 ### If the Universe is Infinite, then the Center is Everywhere.
@@ -195,3 +199,5 @@ In the meantime...
 I'll just leave this here: [http://archive.is/2FLwz](http://archive.is/2FLwz)
 
 I used to let alcohol be in control of my life, so if you think my shitposting is bad now, you should have seen the old days with Killcen on {% include red.html %} /n/ !
+
+![images/2020-04-02/Killcenavirus.png](https://i.imgur.com/DsFTURZ.png)
